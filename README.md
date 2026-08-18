@@ -1,13 +1,14 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=F143B4&size=28&center=true&vCenter=true&width=500&height=70&duration=4000&lines=yousoroo!!!+%E2%88%A0(%E2%80%98-%E2%80%98);ganbarubyyy!!!;I%27m+furirinoshi!;AI/ML+ENTHUSIAST" />
-  
-  <img width="1920" height="1000" alt="llss-chikariko" src="https://github.com/user-attachments/assets/2dff257e-f843-4ad3-b258-dfc009bb8f5f" />
+
+<img width="1920" height="980" alt="github" src="https://github.com/user-attachments/assets/9a57669f-47e4-4145-9830-1de044d2a231" />
+
 
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A AI/ML Engineer based from East Borneo</h3>
 
 <br/>
 
