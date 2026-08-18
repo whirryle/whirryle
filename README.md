@@ -37,8 +37,8 @@ soonnnn~~~~
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,html,css,vscode,github,tailwind,git,nodejs,python,mysql,postgres" />
-    <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" title="Jupyter" style="vertical-align: middle;" /><br><br>
+    <img src="https://skillicons.dev/icons?i=docker,html,css,vscode,github,tailwind,git,nodejs,python,mysql,postgres"/>
+<br><br>
 
 </div>
 
@@ -46,6 +46,11 @@ soonnnn~~~~
 <hr/>
 
 <div align="center">
+
+![graph-default](https://stats.pphat.top/graph?username=pphatdev)
+    
+ </div>
+
   
 
 
