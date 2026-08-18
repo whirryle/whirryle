@@ -46,8 +46,6 @@ soonnnn~~~~
 <hr/>
 
 <div align="center">
-
-![graph-default](https://stats.pphat.top/graph?username=pphatdev)
     
  </div>
 
