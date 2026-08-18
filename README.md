@@ -1,17 +1,15 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=F143B4&size=28&center=true&vCenter=true&width=500&height=70&duration=4000&lines=yousoroo!!!+%E2%88%A0(%E2%80%98-%E2%80%98);ganbarubyyy!!!;I%27m+furirinoshi!;AI/ML+ENTHUSIAST" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=eee6b6&size=28&center=true&vCenter=true&width=500&height=70&duration=4000&lines=yousoroo!!!+%E2%88%A0(%E2%80%98-%E2%80%98);ganbarubyyy!!!;I%27m+furirinoshi!;AI/ML+ENTHUSIAST" />
 
-<div align="center""
 
-</div>
-
+<img width="100%" alt="github-banner" src="https://github.com/user-attachments/assets/93ccdc7f-9473-4c4b-90e6-77332e108067" />
 
 
 </h1>
 
-<h3 align="center">A AI/ML Engineer based from East Borneo</h3>
+<h3 align="center"><font color="#eee6b6">A AI/ML Engineer based from East Borneo</font></h3>
 
 <br/>
 
