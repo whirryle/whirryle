@@ -9,28 +9,15 @@
 
 </h1>
 
-<h3 align="center"><font color="#eee6b6">A AI/ML Engineer based from East Borneo</font></h3>
-
-<br/>
-
 <div align="center">
  
-soonnnn~~~~
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=30&pause=1000&color=FFF1A0&center=true&vCenter=true&repeat=false&random=true&width=665&height=100&lines=AI%2FML+Engineer+based+from+East+Borneo)
 
- </div>
- 
-<div align="center"> 
-  soonnn~~
-  <!-- <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/m-hafiz-raziq-nanda-deprian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> -->
-</div>
+  
+ </div>
 
  <hr/>
  
