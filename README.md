@@ -14,9 +14,13 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=203&pause=1000&color=F4E5DD&center=true&vCenter=true&multiline=true&repeat=false&width=2500&height=150&lines=Halo!+Saya+M.+Hafiz+Raziq+Nanda+Deprian%2C+seorang+yang+sedang+mendalami+dunia+IT+pada;bidang+AI%2FML+serta+membangun+website+dengan+pendekatan+estetika+visual+(NO-AI-SLOP).+)
 <br/>
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=203&pause=1000&color=F4E5DD&center=true&vCenter=true&multiline=true&repeat=false&width=2500&height=150&lines=Pada+tahun+Juni+2026%2C+saya+menduduki+juara+%231+dalam+bidang+Ekshibisi+Kecerdasan+Artifisial+(Koding%2FAI);dalam+LKS+Tingkat+Provinsi+Kalimantan+Timur+Tahun+2026+dengan+membawa+almamater+SMK+Negeri+1+Tenggarong.)
-  <a href="https://www.linkedin.com/in/m-hafiz-raziq-nanda-deprian/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+<br/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=203&pause=1000&color=F4CEC4&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=2500&height=150&lines=Dengan+ini%2C+mari+kita+saling+berkembang+untuk+memajukan+dunia+digital+berbasis+AI%2FML!!;Follow+dan+pantengin+akun+saya+dibawah%2C+Terima+kasihh!!!(%E3%81%A3'%E3%83%AE'c))
+
+<a href="https://www.linkedin.com/in/m-hafiz-raziq-nanda-deprian/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-FCF9EA?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@secercaah" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://img.shields.io/badge/YouTube-FCF9EA?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/secercaah/" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Instagram-FCF9EA?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+
   
  </div>
 
@@ -41,6 +45,9 @@
 </div>
 
 <br><br>
+
+<img width="100%" alt="my little universe_" src="https://github.com/user-attachments/assets/39edf718-074f-48ce-a972-72072142ca1d" />
+
 
 </div>
 
