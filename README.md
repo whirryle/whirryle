@@ -46,14 +46,18 @@
 
 </div>
 
+
+<img alt="my-stats" align="left" width="50%" src="https://github-stats-extended.vercel.app/api?username=whirryle&theme=moltack"/>
+<img alt="my-stats" align="center" width="37%" src="https://github-stats-extended.vercel.app/api/top-langs?username=whirryle&theme=moltack&layout=compact"/>
+
 <br><br>
 
-<img width="100%" alt="my little universe_" src="https://github.com/user-attachments/assets/39edf718-074f-48ce-a972-72072142ca1d" />
+
+<div align=center>
+    <img width="100%" alt="my little universe_" src="https://github.com/user-attachments/assets/39edf718-074f-48ce-a972-72072142ca1d" />
+
+<sub>&copy; 2026 M. Hafiz Raziq Nanda Deprian</sub>    
+</div>
 
 
 </div>
-
-<br/>
-<hr/>
-
-<br/>
